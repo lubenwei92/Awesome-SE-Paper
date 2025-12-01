@@ -54,7 +54,7 @@ GUI Agents
 
 #### GUI Understanding
 
-* **Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception**. [Paper]()
+* Mobile-Agent: Autonomous Multi-Modal Mobile Device Agent with Visual Perception. [Paper]() [Repo](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v1)
 
 #### Agent Knowledge
 
@@ -62,7 +62,7 @@ GUI Agents
 * **[MobiCom'24]** MobileGPT: Augmenting LLM with Human-like App Memory for Mobile Task Automation. [Paper]()
 * **[UIST'24]** GPTVoiceTasker: Advancing Multi-step Mobile Task Efficiency Through Dynamic Interface Exploration and Learning. [Paper]()
 * **[MM'25]** PG-Agent: An Agent Powered by Page Graph. [Paper]()
-* **[CHI'25]** AppAgent: Multimodal Agent as Smartphone Users. [Paper]()
+* **[CHI'25]** AppAgent: Multimodal Agent as Smartphone Users. [Paper]() [Repo](https://github.com/TencentQQGYLab/AppAgent)
 * **[ACL'25]** GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge for GUI Agent. [Paper]()
 
 #### Agent for A11y
@@ -71,8 +71,8 @@ GUI Agents
 
 #### Multi-agent
 
-* **[NIPS'24]** Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. [Paper]()
-* **[ICLR'25 Workshop]** PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC. [Paper]()
+* **[NIPS'24]** Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration. [Paper]() [Repo](https://github.com/X-PLUG/MobileAgent/tree/main/Mobile-Agent-v2)
+* **[ICLR'25 Workshop]** PC-Agent: A Hierarchical Multi-Agent Collaboration Framework for Complex Task Automation on PC. [Paper]() [Repo](https://github.com/X-PLUG/MobileAgent/tree/main/PC-Agent)
 * Fairy: Interactive Mobile Assistant to Real-world Tasks via LMM-based Multi-agent. [Paper]()
 
 ### GUI Test Execution
@@ -90,7 +90,7 @@ GUI Agents
 
 * **[CHI'24]** AXNav: Replaying Accessibility Tests from Natural Language. [Paper]()
 * **[TSE'25]** Seeing is Believing: Vision-driven Non-crash Functional Bug Detection for Mobile Apps. [Paper]()
-* **AUITestAgent: Automatic Requirements Oriented GUI Function Testing**. [Paper]()
+* AUITestAgent: Automatic Requirements Oriented GUI Function Testing. [Paper]() [Repo](https://github.com/bz-lab/AUITestAgent)
 * **[FSE'25]** Automated Soap Opera Testing Directed by LLMs and Scenario Knowledge: Feasibility, Challenges, and Road Ahead. [Paper]()
 
 ### Bug Report Reproduce
